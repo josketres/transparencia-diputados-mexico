@@ -3,7 +3,7 @@
 Lista de fuentes de información de las actividades de los diputados de México a través de los años:
 
 ## Gaceta Parlamentaria
-# Asistencias
+### Asistencias
 * LIX Legislatura, LX Legislatura, LXI Legislatura, LXII Legislatura
 * [Asistencias](http://gaceta.diputados.gob.mx/gp_asistencias.html)
 
